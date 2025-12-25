@@ -154,10 +154,12 @@ window.skillsData = {
         { name: "HTML5", level: 99, icon: "fab fa-html5", color: "#e34c26" },
         { name: "CSS3", level: 99, icon: "fab fa-css3-alt", color: "#264de4" },
         { name: "PHP", level: 97, icon: "fab fa-php", color: "#777bb4" },
+        { name: "C", level: 95, icon: "fas fa-terminal", color: "#555555" },
         { name: "JSON", level: 95, icon: "fas fa-code", color: "#292929" },
         { name: "JavaScript", level: 90, icon: "fab fa-js-square", color: "#f7df1e" },
         { name: "Python", level: 88, icon: "fab fa-python", color: "#3776ab" },
         { name: "MySQL", level: 85, icon: "fas fa-database", color: "#4479A1" },
+        { name: "C++", level: 80, icon: "fas fa-code", color: "#00599c" },
         { name: "SQL", level: 80, icon: "fas fa-database", color: "#003B57" },
         { name: "TypeScript", level: 78, icon: "fab fa-js-square", color: "#3178c6" },
         { name: "Bash", level: 70, icon: "fas fa-terminal", color: "#2e3436" }, 
@@ -168,9 +170,7 @@ window.skillsData = {
         { name: "Rust", level: 20, icon: "fas fa-cogs", color: "#DEA584" },
         { name: "Ruby", level: 20, icon: "fas fa-gem", color: "#CC342D" },
         { name: "R", level: 19, icon: "fas fa-chart-line", color: "#276DC3" },
-        { name: "Kotlin", level: 15, icon: "fas fa-mobile-alt", color: "#A97BFF" },
-        { name: "C++", level: 80, icon: "fas fa-code", color: "#00599c" },
-        { name: "C", level: 95, icon: "fas fa-terminal", color: "#555555" }
+        { name: "Kotlin", level: 15, icon: "fas fa-mobile-alt", color: "#A97BFF" }
     ],
     
     frameworks: [
