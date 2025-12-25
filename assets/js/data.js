@@ -169,8 +169,8 @@ window.skillsData = {
         { name: "Ruby", level: 20, icon: "fas fa-gem", color: "#CC342D" },
         { name: "R", level: 19, icon: "fas fa-chart-line", color: "#276DC3" },
         { name: "Kotlin", level: 15, icon: "fas fa-mobile-alt", color: "#A97BFF" },
-        { name: "C++", level: 10, icon: "fas fa-code", color: "#00599c" },
-        { name: "C", level: 10, icon: "fas fa-terminal", color: "#555555" }
+        { name: "C++", level: 80, icon: "fas fa-code", color: "#00599c" },
+        { name: "C", level: 95, icon: "fas fa-terminal", color: "#555555" }
     ],
     
     frameworks: [
@@ -187,16 +187,16 @@ window.skillsData = {
     tools: [
         { name: "VS Code", level: 99, icon: "fas fa-terminal", color: "#007ACC" },
         { name: "Git & GitHub", level: 95, icon: "fab fa-git-alt", color: "#f05032" },
-        { name: "Canva", level: 92, icon: "fas fa-paint-brush", color: "#00C4CC" },
-        { name: "Firebase", level: 89, icon: "fas fa-fire", color: "#FFA611" },
+        { name: "Canva", level: 95, icon: "fas fa-paint-brush", color: "#00C4CC" },
+        { name: "Firebase", level: 90, icon: "fas fa-fire", color: "#FFA611" },
         { name: "Netlify", level: 76, icon: "fas fa-cloud", color: "#00c7b7" },
-        { name: "MongoDB", level: 75, icon: "fas fa-database", color: "#47a248" },
+        { name: "MongoDB", level: 85, icon: "fas fa-database", color: "#47a248" },
         { name: "AWS", level: 70, icon: "fab fa-aws", color: "#ff9900" },
         { name: "Figma", level: 78, icon: "fab fa-figma", color: "#a259ff" },
         { name: "PostgreSQL", level: 60, icon: "fas fa-database", color: "#336791" },
         { name: "Postman", level: 40, icon: "fas fa-paper-plane", color: "#ff6c37" },
         { name: "Redis", level: 32, icon: "fas fa-database", color: "#dc382d" },
-        { name: "Docker", level: 20, icon: "fab fa-docker", color: "#2496ed" },
+        { name: "Docker", level: 50, icon: "fab fa-docker", color: "#2496ed" },
         { name: "Webpack", level: 12, icon: "fas fa-cube", color: "#8dd6f9" },
         { name: "Jest", level: 10, icon: "fas fa-vial", color: "#c21325" },
         { name: "NPM & Node Package Manager", level: 10, icon: "fab fa-npm", color: "#CB3837" }
